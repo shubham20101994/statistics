@@ -1,0 +1,9 @@
+
+runfile('C:/Users/SHUBHAM KAMBOJ/Desktop/zscore.py', wdir='C:/Users/SHUBHAM KAMBOJ/Desktop')
+z0-value =  2.0000000000000004
+
+ z0-value   =  2.5
+
+ z0-value  =  2.9999999976289264
+
+ z0-value  =  4.0
