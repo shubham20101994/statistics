@@ -1,0 +1,8 @@
+runfile('C:/Users/SHUBHAM KAMBOJ/Desktop/pvalue.py', wdir='C:/Users/SHUBHAM KAMBOJ/Desktop')
+p-value of z normal distribution =  0.9772498680518208
+
+p-value of chisquare  =  0.9560630663765926
+
+p-value of t distribution =  0.9933281724887153
+
+p-value of f distribution =  0.6666666666666661
